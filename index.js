@@ -8,6 +8,7 @@ gtBtn.addEventListener("click", async function() {
     updateColor(colors);
 });
 
+
 async function fetchColors(url) {
     let colorArr = [];
     const response = await fetch(url);
