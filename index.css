@@ -39,6 +39,7 @@ main{
     "color1 color2 color3 color4 color5"
     "hex1 hex2 hex3 hex4 hex5"
 }
+
 #color1{
     grid-area: color1;
     background-color: aqua;
@@ -81,5 +82,5 @@ main{
     text-align: center;
     padding: 10px;
     font-size: 1.2em;
-    color: black;
+    color: rgba(0, 0, 0, 0.263);
 }
